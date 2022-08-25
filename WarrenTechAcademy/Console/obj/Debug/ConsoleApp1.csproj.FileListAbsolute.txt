@@ -1,0 +1,8 @@
+C:\Users\suelen.laffin\Desktop\C#\Warren\WarrenTechAcademy\Console\bin\Debug\Console.exe.config
+C:\Users\suelen.laffin\Desktop\C#\Warren\WarrenTechAcademy\Console\bin\Debug\Console.exe
+C:\Users\suelen.laffin\Desktop\C#\Warren\WarrenTechAcademy\Console\bin\Debug\Console.pdb
+C:\Users\suelen.laffin\Desktop\C#\Warren\WarrenTechAcademy\Console\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\suelen.laffin\Desktop\C#\Warren\WarrenTechAcademy\Console\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\suelen.laffin\Desktop\C#\Warren\WarrenTechAcademy\Console\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\suelen.laffin\Desktop\C#\Warren\WarrenTechAcademy\Console\obj\Debug\Console.exe
+C:\Users\suelen.laffin\Desktop\C#\Warren\WarrenTechAcademy\Console\obj\Debug\Console.pdb
